@@ -75,7 +75,7 @@ class App extends React.Component {
               <option value="5">5</option>
             </select>
           </label>
-          <button onClick={this.addSkill}>ADD SKILL</button>
+          <button> ADD SKILL</button>
         </form>
       </section>
     );
